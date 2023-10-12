@@ -1,0 +1,390 @@
+{"level":"info","ts":"2023-10-11T17:18:45.991+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T17:18:45.996+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T17:20:02.683+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T17:20:02.688+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T17:21:26.626+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T17:21:26.631+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T17:23:13.425+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T17:23:13.430+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T17:24:00.812+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T17:24:00.816+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T17:37:06.411+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T17:37:06.415+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T17:37:18.063+0300","caller":"logger/middleware.go:13","msg":"Request struct","RequestError":"json: unsupported type: func() (io.ReadCloser, error)"}
+{"level":"info","ts":"2023-10-11T17:37:18.064+0300","caller":"logger/middleware.go:14","msg":"Writer struct","Writer":{}}
+{"level":"info","ts":"2023-10-11T17:45:03.993+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T17:45:03.997+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T17:45:06.388+0300","caller":"logger/middleware.go:14","msg":"Handling /resize GET request."}
+{"level":"info","ts":"2023-10-11T17:59:01.621+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T17:59:01.626+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T17:59:04.932+0300","caller":"logger/middleware.go:14","msg":"Handling /resize GET request."}
+{"level":"info","ts":"2023-10-11T18:00:57.516+0300","caller":"logger/middleware.go:14","msg":"Handling /resize GET request."}
+{"level":"info","ts":"2023-10-11T18:01:33.671+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T18:01:33.677+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T18:01:36.417+0300","caller":"logger/middleware.go:14","msg":"Handling /resize GET request."}
+{"level":"info","ts":"2023-10-11T18:04:15.132+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T18:04:15.136+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T18:04:17.921+0300","caller":"logger/middleware.go:14","msg":"Handling /resize GET request."}
+{"level":"info","ts":"2023-10-11T18:05:11.983+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T18:05:11.987+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T18:05:13.461+0300","caller":"logger/middleware.go:14","msg":"Handling /resize GET request."}
+{"level":"info","ts":"2023-10-11T18:06:16.283+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T18:06:16.288+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T18:06:18.845+0300","caller":"logger/middleware.go:14","msg":"Handling /resize GET request."}
+{"level":"info","ts":"2023-10-11T18:06:34.483+0300","caller":"logger/middleware.go:14","msg":"Handling /resize GET request."}
+{"level":"info","ts":"2023-10-11T18:07:09.529+0300","caller":"main/main.go:12","msg":"Settuping microservice"}
+{"level":"info","ts":"2023-10-11T18:07:09.534+0300","caller":"main/main.go:15","msg":"Starting microservice's server"}
+{"level":"info","ts":"2023-10-11T18:07:12.988+0300","caller":"logger/middleware.go:14","msg":"Handling /resize GET request."}
+{"level":"info","ts":"2023-10-12T11:43:54.388+0300","caller":"main/main.go:16","msg":"Settuping config..."}
+{"level":"error","ts":"2023-10-12T11:43:54.393+0300","caller":"main/main.go:19","msg":"Could't initialize config","error":"Config File \"local\" Not Found in \"[]\""}
+{"level":"info","ts":"2023-10-12T11:44:53.318+0300","caller":"main/main.go:16","msg":"Settuping config..."}
+{"level":"error","ts":"2023-10-12T11:44:53.322+0300","caller":"main/main.go:19","msg":"Could't initialize config","error":"Config File \"local\" Not Found in \"[]\""}
+{"level":"info","ts":"2023-10-12T11:45:52.466+0300","caller":"main/main.go:16","msg":"Settuping config..."}
+{"level":"error","ts":"2023-10-12T11:45:52.475+0300","caller":"main/main.go:19","msg":"Could't initialize config","error":"result must be a pointer"}
+{"level":"info","ts":"2023-10-12T11:47:16.994+0300","caller":"main/main.go:16","msg":"Settuping config..."}
+{"level":"error","ts":"2023-10-12T11:47:16.999+0300","caller":"main/main.go:19","msg":"Could't initialize config","error":"result must be addressable (a pointer)"}
+{"level":"info","ts":"2023-10-12T11:48:17.418+0300","caller":"main/main.go:16","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T11:48:17.424+0300","caller":"main/main.go:23","msg":"Settuping microservice..."}
+{"level":"info","ts":"2023-10-12T11:48:17.424+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna lister on: localhost:80"}
+{"level":"info","ts":"2023-10-12T11:48:17.424+0300","caller":"main/main.go:26","msg":"Starting microservice's server..."}
+{"level":"info","ts":"2023-10-12T11:48:55.600+0300","caller":"logger/middleware.go:14","msg":"Handling /resize GET request."}
+{"level":"info","ts":"2023-10-12T11:49:16.668+0300","caller":"main/main.go:16","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T11:49:16.677+0300","caller":"main/main.go:23","msg":"Settuping microservice..."}
+{"level":"info","ts":"2023-10-12T11:49:16.677+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T11:49:16.678+0300","caller":"main/main.go:26","msg":"Starting microservice's server..."}
+{"level":"info","ts":"2023-10-12T11:49:44.917+0300","caller":"logger/middleware.go:14","msg":"Handling /resize GET request."}
+{"level":"info","ts":"2023-10-12T12:48:35.124+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T12:48:35.134+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T12:48:35.135+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T12:48:35.135+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T12:48:35.135+0300","caller":"frontend/server.go:28","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T12:48:35.135+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T12:48:35.135+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T12:48:57.680+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request."}
+{"level":"info","ts":"2023-10-12T12:49:08.175+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request."}
+{"level":"info","ts":"2023-10-12T12:50:04.741+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T12:50:04.747+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T12:50:04.747+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T12:50:04.747+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T12:50:04.747+0300","caller":"frontend/server.go:28","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T12:50:04.747+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T12:50:04.747+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T12:50:06.266+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost"}
+{"level":"info","ts":"2023-10-12T12:50:14.142+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost"}
+{"level":"info","ts":"2023-10-12T12:50:14.796+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost"}
+{"level":"info","ts":"2023-10-12T12:50:15.405+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost"}
+{"level":"info","ts":"2023-10-12T12:53:32.215+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T12:53:32.219+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T12:53:32.219+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T12:53:32.220+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T12:53:32.220+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T12:53:32.220+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T12:53:32.220+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T12:53:35.124+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost"}
+{"level":"info","ts":"2023-10-12T12:55:54.511+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T12:55:54.517+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T12:55:54.517+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T12:55:54.517+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T12:55:54.517+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T12:55:54.517+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T12:55:54.517+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T12:55:58.240+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost"}
+{"level":"info","ts":"2023-10-12T12:58:15.625+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T12:58:15.630+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T12:58:15.630+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T12:58:15.631+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T12:58:15.631+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T12:58:15.631+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T12:58:15.631+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T12:58:18.797+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost"}
+{"level":"info","ts":"2023-10-12T12:58:23.590+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080"}
+{"level":"info","ts":"2023-10-12T12:59:55.501+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T12:59:55.506+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T12:59:55.506+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T12:59:55.506+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T12:59:55.507+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T12:59:55.507+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T12:59:55.507+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T12:59:59.872+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T13:01:30.332+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T13:01:30.339+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T13:01:30.339+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T13:01:30.339+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T13:01:30.339+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T13:01:30.340+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T13:01:30.340+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T13:01:32.471+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{},"RequestMultiPartForm":null,"RequestForm":null}
+{"level":"info","ts":"2023-10-12T13:02:48.788+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T13:02:48.794+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T13:02:48.794+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T13:02:48.794+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T13:02:48.794+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T13:02:48.794+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T13:02:48.794+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T13:02:51.518+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{},"RequestMultiPartForm":null,"RequestForm":null,"PostForm":null}
+{"level":"info","ts":"2023-10-12T13:05:54.480+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T13:05:54.485+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T13:05:54.485+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T13:05:54.486+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T13:05:54.486+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T13:05:54.486+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T13:05:54.486+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T13:05:56.349+0300","caller":"logger/middleware.go:16","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{},"RequestMultiPartForm":{"Value":{"submit":["Submit"]},"File":{"file":[{"Filename":"oldbdurl.txt","Header":{"Content-Disposition":["form-data; name=\"file\"; filename=\"oldbdurl.txt\""],"Content-Type":["text/plain"]},"Size":54}]}},"RequestForm":{"submit":["Submit"]},"PostForm":{"submit":["Submit"]}}
+{"level":"info","ts":"2023-10-12T13:13:59.561+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T13:13:59.566+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T13:13:59.566+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T13:13:59.566+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T13:13:59.566+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T13:13:59.567+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T13:13:59.567+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T13:14:04.679+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"error","ts":"2023-10-12T13:14:04.680+0300","caller":"service/endpoints.go:45","msg":"Unable to create output file","error":"open /tmp/uploadedfile: The system cannot find the path specified."}
+{"level":"info","ts":"2023-10-12T13:14:35.828+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T13:14:35.832+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T13:14:35.833+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T13:14:35.833+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T13:14:35.833+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T13:14:35.833+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T13:14:35.834+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T13:14:37.213+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T13:14:37.214+0300","caller":"service/endpoints.go:57","msg":"File uploaded sucesessfully"}
+{"level":"info","ts":"2023-10-12T16:04:35.347+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T16:04:35.353+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T16:04:35.353+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T16:04:35.353+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T16:04:35.354+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T16:04:35.354+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T16:04:35.354+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T16:04:45.342+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:04:50.450+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"error","ts":"2023-10-12T16:04:50.451+0300","caller":"service/endpoints.go:76","msg":"Error while reading file to image bmp","error":"bmp: invalid format"}
+{"level":"info","ts":"2023-10-12T16:05:02.360+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:05:11.437+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:05:11.437+0300","caller":"service/endpoints.go:84","msg":"0 0 0 65535 rect: (0,0)-(5,5)"}
+{"level":"info","ts":"2023-10-12T16:06:35.378+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T16:06:35.383+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T16:06:35.383+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T16:06:35.384+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T16:06:35.384+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T16:06:35.385+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T16:06:35.385+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T16:06:37.489+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:06:41.789+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:06:41.789+0300","caller":"service/endpoints.go:84","msg":"8224 49344 16448 65535 rect: (0,0)-(5,5)"}
+{"level":"info","ts":"2023-10-12T16:09:36.283+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T16:09:36.288+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T16:09:36.288+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T16:09:36.288+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T16:09:36.289+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T16:09:36.289+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T16:09:36.289+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T16:09:39.215+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:09:42.377+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:09:42.378+0300","caller":"service/endpoints.go:84","msg":"0 65535 0 65535 rect: (0,0)-(5,5)"}
+{"level":"info","ts":"2023-10-12T16:12:32.943+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T16:12:32.948+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T16:12:32.949+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T16:12:32.949+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T16:12:32.949+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T16:12:32.949+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T16:12:32.950+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T16:12:34.707+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:12:37.479+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:12:37.479+0300","caller":"service/endpoints.go:84","msg":"0 255 0 255 rect: (0,0)-(5,5)"}
+{"level":"info","ts":"2023-10-12T16:18:16.838+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T16:18:16.843+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T16:18:16.843+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T16:18:16.844+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T16:18:16.844+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T16:18:16.844+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T16:18:16.844+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T16:18:20.854+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:18:24.130+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:50:01.641+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T16:50:01.646+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T16:50:01.647+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T16:50:01.647+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T16:50:01.647+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T16:50:01.647+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T16:50:01.647+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T16:50:08.012+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:50:14.954+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"error","ts":"2023-10-12T16:50:14.955+0300","caller":"service/endpoints.go:106","msg":"Unsupported file format"}
+{"level":"info","ts":"2023-10-12T16:50:23.017+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:50:27.238+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:50:41.293+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T16:51:36.694+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:11:48.796+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:11:48.800+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:11:48.801+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:11:48.801+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:11:48.801+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:11:48.801+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:11:48.801+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:12:02.881+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:12:37.060+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:12:37.065+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:12:37.065+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:12:37.065+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:12:37.065+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:12:37.066+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:12:37.066+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:12:41.308+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:14:26.365+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:14:26.370+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:14:26.370+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:14:26.370+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:14:26.370+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:14:26.370+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:14:26.371+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:14:28.788+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:14:48.151+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:14:48.156+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:14:48.157+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:14:48.157+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:14:48.157+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:14:48.157+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:14:48.157+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:14:49.279+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:15:17.458+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:15:17.464+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:15:17.464+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:15:17.464+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:15:17.464+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:15:17.464+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:15:17.464+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:15:18.551+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:15:54.219+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:15:54.224+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:15:54.225+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:15:54.225+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:15:54.225+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:15:54.225+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:15:54.225+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:15:55.358+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:16:23.668+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:16:23.673+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:16:23.673+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:16:23.673+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:16:23.673+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:16:23.673+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:16:23.673+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:16:24.856+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:16:51.938+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:16:51.943+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:16:51.943+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:16:51.943+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:16:51.943+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:16:51.944+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:16:51.944+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:16:53.722+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:17:08.877+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:17:08.882+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:17:08.882+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:17:08.882+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:17:08.883+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:17:08.883+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:17:08.883+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:17:09.952+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:18:43.114+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:18:43.120+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:18:43.120+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:18:43.120+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:18:43.120+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:18:43.120+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:18:43.120+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:18:44.655+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:19:16.710+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:19:16.715+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:19:16.715+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:19:16.715+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:19:16.715+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:19:16.715+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:19:16.715+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:19:18.235+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:22:24.798+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:22:24.803+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:22:24.803+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:22:24.803+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:22:24.803+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:22:24.803+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:22:24.804+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:22:28.933+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:23:21.807+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:23:21.813+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:23:21.813+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:23:21.813+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:23:21.813+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:23:21.813+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:23:21.814+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:23:23.084+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T17:23:46.946+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T17:23:46.951+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T17:23:46.951+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T17:23:46.951+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T17:23:46.951+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T17:23:46.951+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T17:23:46.951+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T17:23:48.189+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T18:54:22.360+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T18:54:22.370+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T18:54:22.370+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T18:54:22.371+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T18:54:22.371+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T18:54:22.371+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T18:54:22.371+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T18:54:28.026+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T18:54:42.808+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T18:56:52.093+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T18:56:52.098+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T18:56:52.099+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T18:56:52.099+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T18:56:52.099+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T18:56:52.099+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T18:56:52.099+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T18:57:18.942+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T19:00:52.488+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T19:00:52.493+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T19:00:52.493+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T19:00:52.493+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T19:00:52.493+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T19:00:52.494+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T19:00:52.494+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T19:00:54.966+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T19:23:39.226+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T19:23:39.232+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T19:23:39.232+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T19:23:39.232+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T19:23:39.232+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T19:23:39.232+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T19:23:39.232+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T19:23:46.866+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T19:26:15.632+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T19:26:15.637+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T19:26:15.637+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T19:26:15.638+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T19:26:15.638+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T19:26:15.638+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T19:26:15.638+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T19:26:17.483+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T19:27:11.934+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T19:28:57.385+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T19:28:57.390+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T19:28:57.390+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T19:28:57.391+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T19:28:57.391+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T19:28:57.391+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T19:28:57.391+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T19:28:58.863+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T21:25:33.087+0300","caller":"main/main.go:17","msg":"Settuping config..."}
+{"level":"info","ts":"2023-10-12T21:25:33.093+0300","caller":"main/main.go:24","msg":"Settuping backend microservice..."}
+{"level":"info","ts":"2023-10-12T21:25:33.094+0300","caller":"service/server.go:27","msg":"Completed server setup. Server gonna listen on: localhost:8080"}
+{"level":"info","ts":"2023-10-12T21:25:33.094+0300","caller":"main/main.go:27","msg":"Settuping frontend application..."}
+{"level":"info","ts":"2023-10-12T21:25:33.094+0300","caller":"frontend/server.go:27","msg":"Completed frontend server. Server gonna listen on: localhost:80"}
+{"level":"info","ts":"2023-10-12T21:25:33.094+0300","caller":"main/main.go:30","msg":"Starting frontend application server..."}
+{"level":"info","ts":"2023-10-12T21:25:33.095+0300","caller":"main/main.go:33","msg":"Starting backend microservice's server..."}
+{"level":"info","ts":"2023-10-12T21:25:58.369+0300","caller":"logger/middleware.go:14","msg":"Handling / GET request. Host: localhost","RequestBody":{}}
+{"level":"info","ts":"2023-10-12T21:26:05.216+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"error","ts":"2023-10-12T21:26:05.216+0300","caller":"service/endpoints.go:88","msg":"Failed extracting EXIF data from file","error":"EOF"}
+{"level":"info","ts":"2023-10-12T21:27:49.291+0300","caller":"logger/middleware.go:14","msg":"Handling /resize POST request. Host: localhost:8080","RequestBody":{}}
+{"level":"error","ts":"2023-10-12T21:27:49.297+0300","caller":"service/endpoints.go:88","msg":"Failed extracting EXIF data from file","error":"EOF"}
